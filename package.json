@@ -1,0 +1,18 @@
+{
+    "name": "4CB-Seer",
+    "description": "Discord bot for managing 4-card blind mtg tournaments.",
+    "keywords": [
+        "Discord",
+        "MTG",
+        "4CB"
+    ],
+    "author": "Erik Birch <acetrainererik@gmail.com>",
+    "contributors": [],
+    "dependencies": [],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/AceTrainerErik/4CB-Seer"
+    },
+    "main": "bot.js",
+    "version": "1.0.0"
+}
