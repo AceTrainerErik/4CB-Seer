@@ -1,4 +1,3 @@
-
 // Requiring.
 var Discord = require('discord.js');
 var auth = require('../config/auth.json');

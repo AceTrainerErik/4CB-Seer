@@ -1,18 +1,33 @@
 {
-    "name": "4CB-Seer",
-    "description": "Discord bot for managing 4-card blind mtg tournaments.",
-    "keywords": [
-        "Discord",
-        "MTG",
-        "4CB"
-    ],
-    "author": "Erik Birch <acetrainererik@gmail.com>",
-    "contributors": [],
-    "dependencies": [],
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/AceTrainerErik/4CB-Seer"
-    },
-    "main": "bot.js",
-    "version": "1.0.0"
+  "name": "4cb-seer",
+  "description": "Discord bot for managing 4-card blind mtg tournaments.",
+  "keywords": [
+    "Discord",
+    "MTG",
+    "4CB"
+  ],
+  "author": "Erik Birch <acetrainererik@gmail.com>",
+  "contributors": [],
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "scryfall": "^0.9.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AceTrainerErik/4CB-Seer.git"
+  },
+  "main": "bot.js",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/AceTrainerErik/4CB-Seer/issues"
+  },
+  "homepage": "https://github.com/AceTrainerErik/4CB-Seer#readme",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "SEE LICENSE IN LICENSE"
 }
