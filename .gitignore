@@ -105,3 +105,6 @@ dist
 
 # Config
 config/auth.json
+
+#Data
+data/

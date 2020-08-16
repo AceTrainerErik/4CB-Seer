@@ -1,3 +1,10 @@
 {
-  "token":"discord_bot_token"
+  "token":"discord_bot_token",
+  "db":
+    {
+      "host":"localhost",
+      "database":"../data/database.db",
+      "user":"user",
+      "password":"password"
+    }
 } 
